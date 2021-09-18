@@ -1,0 +1,18 @@
+{{ if .IsHome }}
+  <h3>Mazza — Argentina, UX, Business, Philosophy, All, None.</h3>
+{{ else }}
+  <h3><a href="/">Mazza</a> — Argentina, UX, Business, Philosophy, All, None.</h3>
+{{ end }}
+
+<nav>
+  <ul>
+    {{ range .Site.Menus.main }}
+      <li>
+        <a class="nav-link" href="{{ .URL }}">
+          {{ $text := print .Name | safeHTML }}
+          {{ $text }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

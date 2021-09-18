@@ -1,11 +1,6 @@
-baseURL = "https://marcelomazza.com.ar/"
-languageCode = "en-es"
-title = "Marcelo Mazza"
-theme = "simplest"
+baseURL = "https://mazza.com.ar/"
+languageCode = "es"
+title = "Mazza"
+theme = "mazza"
 pluralizelisttitles = "false"
-
-[menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+sectionPagesMenu = "main"
