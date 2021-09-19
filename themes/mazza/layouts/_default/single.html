@@ -1,6 +1,14 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
-<br><br>
-{{ .Content }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "metadata.html" . }}
+  <br><br>
+  {{ .Content }}
+  <hr class="post-bottom">
+  {{ with .NextInSection }}
+    El que sigue es: <a href="{{ .Permalink }}">{{ .Title }}</a> >>
+  {{ end }}
+  <hr class="post-bottom">
+  {{ with .PrevInSection }}
+    << <a href="{{ .Permalink }}">{{ .Title }}</a> es el anterior
+  {{ end }}
 {{ end }}

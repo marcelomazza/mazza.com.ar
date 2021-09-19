@@ -23,12 +23,12 @@ body {
 }
 
 body {
-  margin: 0 30px;
+  margin: 0 30px 30px;
 }
 
 @media (min-width: 700px) {
   body {
-    margin: 0 auto;
+    margin: 0 auto 30px;
   }
 }
 
@@ -61,4 +61,24 @@ body a {
 .hr-colored {
   border-color: #EFEFEF;
   border-style: dashed;
+}
+
+.post-bottom {
+  margin-top: 4em;
+}
+
+.yt {
+  padding-top: 30px;
+  padding-bottom: 56.25%;
+  position: relative;
+  overflow: hidden;
+  height: 0;
+}
+
+.yt iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

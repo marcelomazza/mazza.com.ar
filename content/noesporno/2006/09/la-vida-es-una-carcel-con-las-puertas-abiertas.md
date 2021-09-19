@@ -12,3 +12,18 @@ Ayer escuché una canción y me conmovió. Vivo escuchando música y llega un pu
 Y empecé como loco a buscar el significado del poema. Hasta que desistí. ¿Para qué destripar algo tan hermoso, tan bello, tan perfectamente moldeado? Sería deshumanizar algo de lo poco humano que aún queda. Esa capacidad sublime de abstraerse, aunque solo sea por un ratito, de toda la mierda y poder darse el lujo de conmoverse.
 
 Sigo siendo humano. De a ratos.
+
+
+
+<br>
+<br>
+<br>
+---
+
+Nota del autor, 19 de Septiembre de 2021:
+
+De este me sorprendió zarpado lo el primer párrafo, esa descripción de la calle y la sensación de estar solo.
+
+Me sorprende que en esa época fuera así. Porque hoy sigo sintiendo lo mismo, en algún punto.
+
+Pero tengo esperanza.

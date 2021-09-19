@@ -5,20 +5,20 @@ date: "2021-09-18 10:54:00"
 
 Así se llamó mi primer blog. Me alegra haberlo conservado, aunque sea solamente en formato de backup. Hoy el hecho de haberme reencontrado con la escritura y el blogueo hace que inevitablemente me conecte con él.
 
-Estoy resubiendo todos los posts. Al momento de escribir esto ya hay subidosn 27 posts.
+Estoy resubiendo todos los posts. Al momento de escribir esto ya hay subidos 27 posts.
 
 Podés chequearlos en [/noesporno](/noesporno).
 
 ---
 
 ## Republicación en curso
-Hoy sábado 18 de Septiembre de 2021, decidí subir todos los contenidos de noesporno a este sitio, a manera de homenaje. Y porque también quiero centralizar todo mi contenido en mi lugar.
+Hoy sábado 18 de Septiembre de 2021, decidí subir todos los contenidos de noesporno a este sitio, mazza.com.ar, a manera de homenaje. Y porque también quiero centralizar todo mi contenido en mi lugar.
 
 Según el backup que tengo, el primer post de noesporno fue un Lunes, 07 de Agosto de 2006. Hace casi exactamente 15 años.
 
 Toda una vida y, a la vez, siento que pasó volando. Paradojas del tiempo.
 
-El primer post se tituló “Un proyecto más” y decía así:
+El primer post se tituló [“Un proyecto más”](/noesporno/2006/08/un-proyecto-mas/) y decía así:
 
 > Hoy empieza uno más… y aunque tenga la esperanza de que no quede inconcluso como lo demás, me temo que será así.
 
@@ -40,6 +40,6 @@ Según el feed que tengo, los posts de Noesporno son 200. Probablemente sean men
 
 Creo que quiero que mazza.com.ar congregue todo lo que vine haciendo durante todo este tiempo. Veré.
 
-A mediados de 2009 decidí cerrar el blog y bajarlo completamente de las redes.
+A mediados de 2009 decidí cerrar Noesporno y bajarlo completamente de las redes.
 
-En su último post expliqué el por qué.
+En su último post expliqué el por qué. ¿Te interesa saber?

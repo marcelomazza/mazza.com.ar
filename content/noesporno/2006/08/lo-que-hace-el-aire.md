@@ -3,7 +3,7 @@ title: "Lo que hace el aire"
 date: "2006-08-08"
 ---
 
-> Publicado originalmente en [noesporno](/noesporno), agosto 08, 2006.
+> Publicado originalmente en [noesporno](/noesporno).
 
 No sé como, pero un amigo llegó hasta acá. En realidad sí lo sé, habilidosamente camuflé una invitación, casi inconscientemente, aunque mi primer objetivo fuera que ningún cercano conociera este proyecto. Supongo que me generó terror la idea de que absolutamente NADIE visitara el blog. 
 
@@ -30,3 +30,18 @@ Real Academia Española © Todos los derechos reservados
 ---
 
 Así que una de dos: o esto es un plomazo, o estoy meado por los perros.
+
+
+
+<br>
+<br>
+<br>
+---
+
+Nota del autor, 19 de Septiembre de 2021:
+
+En este busco validación social. Gracias por siempre a todas las palabras de apoyo que recibí. Por suerte fueron un montón.
+
+La frase del final es un intento de chiste con respecto a la segunda acepción de la palabra óxido, el ejemplo del orín específicamente.
+
+No funciona bien, por eso lo explico. Probablemente solo yo lo sabría hasta este momento. Ahora, también vos.

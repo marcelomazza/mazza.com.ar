@@ -12,3 +12,20 @@ Y esto de obra de arte me hace acordar a un cuentito de Fontanarrosa, "Viejo con
 Aquí, el golazo de Lionel Messi y el idem de Maradona: https://www.youtube.com/watch?v=VyzTHoX6qT0
 
 _Off: por favor, qué poca pasión que le meten los relatores españoles._
+
+<br>
+<br>
+<br>
+---
+
+Nota del autor, 19 de Septiembre de 2021:
+
+Lo decía en serio en ese momento, lo de no ser fanático del fútbol. Bueno, no soy fanático de nada, porque el fanatismo me parece no pensar.
+
+Prefiero hablar de pasiones y en ese sentido puedo decir que, a pesar de que en 2007 no lo fuera, hoy sí el fútbol es una pasión.
+
+Creo que es el mejor deporte del mundo.
+
+Todos los deportes son hermosos.
+
+Lo que puede hacer la vida humana.

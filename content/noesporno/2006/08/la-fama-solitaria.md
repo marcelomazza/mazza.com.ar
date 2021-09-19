@@ -3,7 +3,7 @@ title: "La fama solitaria"
 date: "2006-08-07 19:39:00"
 ---
 
-> Publicado originalmente en [noesporno](/noesporno), lunes, agosto 07, 2006.
+> Publicado originalmente en [noesporno](/noesporno).
 
 A veces me pregunto donde está el sentido. ¿Por qué la gente se toma la molestia de hacer algo así? ¿Por qué me tomé la molestia de hacer algo así? Crear un usuario, realizar las entradas, dedicarle tiempo, ¿y para qué?
 
@@ -12,3 +12,14 @@ Tal vez busque la fama. Pero no esa fama de Andy Warhol, esa fama de reality sho
 Supongo que por eso lo hago. Supongo que espero siempre que alguien tenga los huevos de decirme: “¡Loco! Lo tuyo es una mierda”. Y convencerme de eso.
 
 Porque es una mierda. Sobre todo el título.
+
+<br>
+<br>
+<br>
+---
+
+Nota del autor, 19 de Septiembre de 2021:
+
+Sigue acá la lucha interna. Cuestionando todo todo el tiempo, en vez de simplemente hacer. Insultando, pegándole a lo que hacía, por lo tanto, a mí.
+
+Me interesa el tema de la fama y algún día quiero escribir más al respecto.

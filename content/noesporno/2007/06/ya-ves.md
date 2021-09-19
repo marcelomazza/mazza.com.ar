@@ -14,3 +14,14 @@ Era todo tan simple. Con ella, con su existencia, yo era feliz. Ojalá hoy fuera
 Quiero que fumar un cigarrillo a la vuelta de la escuela vuelva a ser adrenalínico. Quiero que las mujeres vuelvan a ser ese objeto hermoso, lejano, intocable. Quiero volver a sentir que tengo como veinte amigos incondicionales que darían la vida por mí. Quiero poder ratearme cuando las cosas se ponen difíciles.
 
 Estaría bueno, ¿no? Ratearse de la vida, por unos días.
+
+<br>
+<br>
+<br>
+---
+
+Nota del autor, 19 de Septiembre de 2021:
+
+Acá empezaba a hablar de amor. Me causa gracia lo del MSN - qué viejazo. Ya la gente se andaba mostrando en esa época, me sorprendió.
+
+Que será de la vida de Cinthia, ahora. Por algún lado tengo una foto de ella, que una amiga me dio, para que guarde.
