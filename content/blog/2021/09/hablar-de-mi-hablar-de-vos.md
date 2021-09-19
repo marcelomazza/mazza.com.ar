@@ -3,9 +3,9 @@ title: "Hablar de mí, hablar de vos"
 date: "2021-09-18 17:58:00"
 ---
 
-Hace unos días entré a nic.ar a no me acuerdo qué y ví que tenía registrado el dominio mazza.com.ar.Siempre me costó mucho hablar de mí. Hasta que me di cuenta que es lo mismo que hablar de vos. Todo es lo mismo todo es lo mismo.
+Siempre me costó mucho hablar de mí. **Hasta que me di cuenta que es lo mismo que hablar de vos**. <mark>Todo es lo mismo todo es lo mismo</mark>.
 
-No, hablando en serio, me flashean las historias de la gente. Es como que me interesa todo.
+No, _hablando en serio_, me flashean las historias de la gente. Es como que me interesa todo.
 
 Es como que estoy saliendo a vivir por primera vez, a pesar de haber estado vivo. Que enroscado.
 

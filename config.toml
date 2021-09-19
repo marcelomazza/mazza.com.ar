@@ -4,3 +4,8 @@ title = "Mazza"
 theme = "mazza"
 pluralizelisttitles = "false"
 sectionPagesMenu = "main"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

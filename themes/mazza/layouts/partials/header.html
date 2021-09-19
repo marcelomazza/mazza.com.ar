@@ -10,7 +10,7 @@
       <li>
         <a class="nav-link" href="{{ .URL }}">
           {{ $text := print .Name | safeHTML }}
-          {{ $text }}
+          {{ lower $text }}
         </a>
       </li>
     {{ end }}
