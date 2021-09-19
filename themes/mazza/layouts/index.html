@@ -5,6 +5,20 @@
       {{.Content}}
     </div>
     <div>
+      <p>
+        Hola, en este momento el sitio tiene: 
+        
+        {{ len .Site.RegularPages }} páginas y
+        
+        {{ $scratch := newScratch }}
+        
+        {{ range .Site.RegularPages }}
+          {{ $scratch.Add "wordcount" .WordCount }}
+        {{ end }}
+        
+        {{ $scratch.Get "wordcount" | lang.NumFmt 0 }}
+        palabras. Este número se actualiza automáticamente. Lo que es la tecnología.
+      </p>
       {{ range .Site.RegularPages.ByDate.Reverse }}
         <article>
           <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
