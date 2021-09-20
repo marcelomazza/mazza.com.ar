@@ -1,0 +1,16 @@
+---
+title: "Probabilidad de chaparrones"
+date: "2009-02-19"
+---
+
+> Publicado originalmente en [noesporno](/noesporno).
+
+Hubo un tiempo en que un día podía durar para siempre y solo terminar cuando el sol o el corazón lo dictasen. En que el mayor problema que había que afrontar era colgar la pelota en lo de la vieja de los gatos (en toda niñez hay una vieja con gatos) y "responsabilidad" implicaba hacerse cargo del horrible zurdazo y tocar el timbre estoicamente para reclamar lo perdido. Hubo un tiempo en que el peor temor era quedarse afuera del pan y queso, y que la gloria era meter gol, saborear el momento en que la pelota cruzaba el arco hecho con mochilas y salir corriendo y gritando (y los abrazos) como si el país fuera un puño apretado gritando por Argentina.
+
+Hubo un tiempo en que el amor se resolvía girando una botella y cruzando los dedos fuerte, para poder darle un piquito a la chica que te gustaba. El sexo aparecía ahí, tan simple y dulce, cuando ponías trompita y cerrabas los ojos, y las dos bocas se acercaban lentamente, despacio, despacio, y apenas se sentía el roce de los labios las caras salían como eyectadas, como rechazadas por una fuerza superior. Y te limpiabas la boca con el antebrazo pero mentira, hubieras dado las estrellas para que ese momento se repitiera una y otra vez.
+
+Y hubo un tiempo en que lo mejor que podía pasarte en una tarde calurosa de verano era que esos nubarrones en el horizonte se acercasen para estallar en tu cabeza, y empaparte entero bajo la lluvia, abrir los brazos a lo Diego Torres y mirar al cielo, para sentir cada una de las gotas chapoteando en tu cara, mientras abrías la boca para tomar agua ("pura", decíamos). Para dejar la plaza por un momento y correr, correr por la vereda buscando refugio, y encontrarlo bajo el toldo de alguna mercería abandonada, y acurrucarse todos juntos a mirar la calle en tinieblas, los autos rompiendo la barrera de agua, hablar y reflexionar y tener serias discusiones científicas sobre lo bueno que estaría poder teletransportarse o ser invisible para espiar a la vecina de enfrente. Y la gente que pasaba apurada a las puteadas. Pertenecían a otro mundo, tan lejano al nuestro.
+
+Hubo un tiempo, no me cabe duda. Y hay un tiempo. Un tiempo en que el día es eterno, sí, pero no ves la hora de que termine el suplicio. En el que los problemas se multiplicaron y ya no se solucionan tocando un timbre y diciendo "Doña, ¿nos alcanza la pelota?". Un tiempo en el que los temores te rodean y la gloria parece inalcanzable (o etérea). En el que el amor no se resuelve girando una botella, más bien vaciándola. Y es un tiempo en el que una lluvia en medio de la tarde puede arruinarte el día (justo hoy que no traje paraguas) y te comés el garrón del viaje en subte empapado, compartiendo el olor a humedad con los demás pasajeros, generando un vaho comunitario irrespirable. 
+
+Así, mojado, refunfuñando, encarás para tu casa, con cara de orto y mal humor. Hay unos pibes sentados bajo el toldo de enfrente, mirando absortos la lluvia que cae. Pendejos de mierda. Pertenecen a otro mundo, tan lejano al nuestro.

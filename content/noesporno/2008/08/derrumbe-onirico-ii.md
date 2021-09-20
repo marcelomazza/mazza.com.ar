@@ -1,0 +1,16 @@
+---
+title: "Derrumbe Onírico (II)"
+date: "2008-08-25"
+---
+
+> Publicado originalmente en [noesporno](/noesporno).
+
+No sólo le faltan las piernas. Miguel está cercenado completamente de la cintura para abajo. Lo que queda de su torso descansa en un extraño vehículo consistente en una tabla de madera, a la que le fueron adosadas de mala manera cuatro ruedas, una en cada esquina. Avanza empujándose con la ayuda de sus manos, que abrazan el asfalto, la mugre.
+
+**Es en este punto donde todo empieza a difuminarse**. La ciudad se ve devorada por una densa oscuridad, y yo, impávido, como si estuviera contemplando un atardecer. La multitud que antes se concentraba en el andén se dispersó, y sólo quedan algunas personas alrededor nuestro. Miguel no da señales de haberme visto. Está conversando. Alguien señala un pedazo de chapa, posado sobre un riel. Él lo mira con sus ojos a ras del suelo, y reptando se sitúa en medio de la vía para acomodar la plancha metálica. Terminada su labor, hace gracias a su improvisado público, puro ademán en su medio cuerpo. Yo me pongo nervioso. Comienzo a transpirar, siento cómo cada gota de sudor es expulsada a través de cada poro, y le grito, le grito que se salga de la vía, que va a pasar el tren, que por favor. Pero no me escucha. Las risas se elevan, resuenan en la nada misma.
+
+Me doy vuelta por instinto, pero no veo nada. Ningún tren desaforado dispuesto a aplastar lo que queda de Miguel. Sólo el asfalto y las vías, que se introducen juntas en la penumbra total para besarse en el infinito. Pero... ¿la barrera se movió? **No estoy seguro. Las risas y mis nervios no me dejan determinar nada**, si ese puto pedazo de madera roja y blanca intentó moverse o qué. Y tengo miedo. Me invade otra vez ese miedo del andén, pero esta vez con una presencia que me aterra y me domina. Grito y grito y le grito, salí de ahí, ¡laconchadetumadre! ¡sosboludo!, ¡salí! y nada, se sigue riendo como si estuviera tomando el té con unas señoritas. Atino a cerrar los ojos y apretar los puños, fuerte, me quiero ir ya, en este instante, sacame de acá...
+
+Un estruendoso rugir de motores parte el mundo en dos, mientras el temblor de la muerte inunda cada rincón, y abro los ojos para ver a la máquina verdugo salir de la oscuridad y pasar de largo, mientras el viento caliente que genera me despeina y me tironea la ropa, queriéndome llevar. **No hay más risas. No miro para atrás**. No quiero. No sé cómo, pero tengo las manos unidas en posición penitente, y las miro. Las miro como preguntándoles por qué están así, y creo que me contestan que quieren rezar, pero ni ellas ni yo nos acordamos ni de Dios ni sus palabras. Las desenlazo y **me quedo solo, en mi isla de asfalto rodeada de oscuridad, de silencio, de vacío**. Empiezo a llorar y caminar. Rompo en llanto como un bebé. Y camino y camino. Es horrible, me ahogo con las lágrimas y no puedo respirar bien, mi garganta traga aire a cada instante, y camino, y mientras se me deslizan los mocos que se juntan en la boca con la saliva en un asqueroso y triste fluído que va a parar al asfalto agrietado, camino. **Después de una lenta caída**. Camino.
+
+**No quiero seguir más**.
