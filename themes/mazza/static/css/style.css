@@ -17,7 +17,7 @@ body {
   max-width: 750px;
   /* stack from https://fontsarena.com/blog/operating-systems-default-serif-fonts/ */
   font-family: "Georgia", "Times New Roman", Times, serif;
-  line-height: 1.5;
+  line-height: 1.65;
   color: #000;
   background: #FFF;
 }
@@ -56,6 +56,10 @@ body a {
   body a {
     color: #00D0FF;
   }
+}
+
+p {
+  margin-bottom: 2em;
 }
 
 .hr-colored {

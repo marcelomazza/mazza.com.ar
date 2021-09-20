@@ -16,3 +16,18 @@
     {{ end }}
   </ul>
 </nav>
+
+<p>
+  Hola, soy Marcelo Mazza y en este momento el sitio tiene:
+  
+  <mark>{{ len .Site.RegularPages }} páginas</mark> y
+  
+  {{ $scratch := newScratch }}
+  
+  {{ range .Site.RegularPages }}
+    {{ $scratch.Add "wordcount" .WordCount }}
+  {{ end }}
+  
+  <mark>{{ $scratch.Get "wordcount" | lang.NumFmt 0 }}
+  palabras</mark>. Este número se actualiza automáticamente cada vez que publico. Lo que es la tecnología.
+</p>
