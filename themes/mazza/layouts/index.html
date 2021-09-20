@@ -8,7 +8,7 @@
       <p>
         Si querés hablar conmigo buscame como <a href="https://twitter.com/marcelomazza" target="_blank">@marcelomazza</a>.
       </p>
-      {{ range .Site.RegularPages.ByDate.Reverse }}
+      {{ range first 25 .Site.RegularPages.ByDate.Reverse }}
         <article>
           <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <div>{{ .Content }}</div>

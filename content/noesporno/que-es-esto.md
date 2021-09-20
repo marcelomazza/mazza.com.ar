@@ -5,9 +5,11 @@ date: "2021-09-18 10:54:00"
 
 Así se llamó mi primer blog. Me alegra haberlo conservado, aunque sea solamente en formato de backup. Hoy el hecho de haberme reencontrado con la escritura y el blogueo hace que inevitablemente me conecte con él.
 
-Estoy resubiendo todos los posts. Al momento de escribir esto ya hay subidos 27 posts.
+~~Estoy resubiendo todos los posts. Al momento de escribir esto ya hay subidos 27 posts.~~
 
-Podés chequearlos en [/noesporno](/noesporno).
+Ya está todo subido. Podés chequearlos en [/noesporno](/noesporno).
+
+También leer mi reflexión final en [Second Ending](/noesporno/second-ending/).
 
 ---
 
