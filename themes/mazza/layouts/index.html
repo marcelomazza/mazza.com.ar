@@ -1,16 +1,47 @@
 {{ define "main" }}
   <main aria-role="main">
     <div class="homepage-content">
+      <p>
+        Hola, soy Marcelo Mazza y en este momento el sitio tiene:
+        
+        <mark>{{ len .Site.RegularPages }} páginas</mark> y
+        
+        {{ $scratch := newScratch }}
+        
+        {{ range .Site.RegularPages }}
+          {{ $scratch.Add "wordcount" .WordCount }}
+        {{ end }}
+        
+        <mark>{{ $scratch.Get "wordcount" | lang.NumFmt 0 }}
+        palabras</mark>.
+        Buscame como <a href="https://twitter.com/marcelomazza" target="_blank">@marcelomazza</a> en cualquiera de mis redes y charlamos un rato.
+      </p>
+
       <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
       {{.Content}}
+
+      <p>Podés leer cualquiera de las secciones del sitio:</p>
+
+      <nav>
+        <ul>
+          {{ range .Site.Menus.main }}
+            <li>
+              <a class="nav-link" href="{{ .URL }}">
+                {{ $text := print .Name | safeHTML }}
+                {{ lower $text }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </nav>
+      <p>O si continuás scrolleando, aquí abajo están:</p>
+      <h3>Los últimos 25 posts</h3>
     </div>
     <div>
-      <p>
-        Si querés hablar conmigo buscame como <a href="https://twitter.com/marcelomazza" target="_blank">@marcelomazza</a>.
-      </p>
       {{ range first 25 .Site.RegularPages.ByDate.Reverse }}
         <article>
-          <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+          <h1><a href="{{ .Permalink }}">{{ .Title }}</a>{{ partial "metadata.html" . }}</h1>
+          
           <div>{{ .Content }}</div>
         </article>
         <hr class="hr-colored">

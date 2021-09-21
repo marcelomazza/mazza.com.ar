@@ -1,5 +1,5 @@
 ---
-title: "20 lunes - Deseos del pasado"
+title: "Deseos del pasado"
 date: "2021-09-20 17:02:00"
 ---
 

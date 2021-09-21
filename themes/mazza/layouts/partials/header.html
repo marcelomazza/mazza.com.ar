@@ -1,33 +1,6 @@
 {{ if .IsHome }}
   <h3>Mazza — Argentina, UX, Business, Philosophy, All, None.</h3>
+  <blockquote>I also write in &raquo; <a href="/english">English</a></blockquote>
 {{ else }}
   <h3><a href="/">Mazza</a> — Argentina, UX, Business, Philosophy, All, None.</h3>
 {{ end }}
-
-<nav>
-  <ul>
-    {{ range .Site.Menus.main }}
-      <li>
-        <a class="nav-link" href="{{ .URL }}">
-          {{ $text := print .Name | safeHTML }}
-          {{ lower $text }}
-        </a>
-      </li>
-    {{ end }}
-  </ul>
-</nav>
-
-<p>
-  Hola, soy Marcelo Mazza y en este momento el sitio tiene:
-  
-  <mark>{{ len .Site.RegularPages }} páginas</mark> y
-  
-  {{ $scratch := newScratch }}
-  
-  {{ range .Site.RegularPages }}
-    {{ $scratch.Add "wordcount" .WordCount }}
-  {{ end }}
-  
-  <mark>{{ $scratch.Get "wordcount" | lang.NumFmt 0 }}
-  palabras</mark>. Este número se actualiza automáticamente cada vez que publico. Lo que es la tecnología.
-</p>

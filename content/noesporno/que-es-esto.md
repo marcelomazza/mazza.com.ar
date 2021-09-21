@@ -1,5 +1,5 @@
 ---
-title: "Qué es esto? O Qué Era, más bien?"
+title: "¿Qué es esto? O ¿qué Era?, más bien?"
 date: "2021-09-18 10:54:00"
 ---
 

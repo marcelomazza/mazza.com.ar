@@ -1,5 +1,5 @@
 ---
-title: "19 domingo - Palermo 717 - El Principio de Pareto"
+title: "El Principio de Pareto"
 date: "2021-09-19 16:26:00"
 ---
 
