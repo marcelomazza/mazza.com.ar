@@ -1,6 +1,6 @@
 {{ define "main" }}
   <h3>
-    <a href="/">&laquo; more posts</a>
+    <a href="/{{ .Section }}">&laquo; {{ .Section }}</a>
   </h3>
   <h1>{{ .Title }}</h1>
   {{ partial "metadata.html" . }}
