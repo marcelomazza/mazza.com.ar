@@ -5,6 +5,7 @@
 html {
   /* Set parent font size */
   font-size: 18px;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media (min-width: 700px) {
@@ -143,6 +144,7 @@ blockquote {
 
   .main-layout__content {
     margin-right: 9em;
+    max-width: 750px;
   }
 }
 
@@ -152,7 +154,7 @@ blockquote {
   display: flex;
 }
 
-.post-list-item__metadata {
+.metadata {
   margin-left: auto;
   color: #CCC;
   font-size: .8rem;

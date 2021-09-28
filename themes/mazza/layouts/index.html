@@ -11,9 +11,7 @@
     {{ end }}
     <h4>Últimos posts / Latest posts</h4>
     {{ range first 25 (after 1 .Site.RegularPages.ByDate.Reverse) }}
-      <span class="post-list-item__metadata">
-        {{ partial "metadata.html" . }}
-      </span>
+      {{ partial "metadata.html" . }}
       <h4 class="post-list-item">
         <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h4>

@@ -33,4 +33,17 @@
   <p>O seguí leyendo hacia abajo ;)</p>
 {{ else }}
   <h3><a href="/">Mazza</a> — Argentina, UX, Business, Philosophy, All, None.</h3>
+  <h4>Sections:</h4>
+  <nav>
+    <ul>
+      {{ range .Site.Menus.main }}
+        <li>
+          <a class="nav-link" href="{{ .URL }}">
+            {{ $text := print .Name | safeHTML }}
+            {{ lower $text }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
 {{ end }}

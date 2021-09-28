@@ -1,4 +1,5 @@
 {{ if (ne .Section "loqesangra") }}
+<span class="metadata">
 {{ $dateTime := .PublishDate.Format "2006-01-02" }}
 {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
 <i data-feather="calendar"></i>
@@ -10,4 +11,5 @@
 <a class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
 {{ end }}
 {{ end }}
+</span>
 {{ end }}
