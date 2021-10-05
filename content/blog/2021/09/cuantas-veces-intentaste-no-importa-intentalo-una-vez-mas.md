@@ -1,5 +1,5 @@
 ---
-title: "¿Cuántas veces lo intentaste? No importa, intentá una vez más"
+title: "¿Cuántas veces lo intentaste? No importa, intentalo una vez más"
 date: "2021-10-04 23:34:00"
 ---
 
