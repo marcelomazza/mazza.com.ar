@@ -35,7 +35,7 @@ Simplificando, una criptomoneda es dinero digital que utiliza la criptografía p
 
 Esta es una de las razones del por qué hay que meterse y aprender sobre cryptocurrencies.
 
-Nunca antes la humanidad había visto una lucha de poder semejante entre el status quo de los "dueños" del dinero mundial (bancos centrales) y la masa anónima de control descentralizado que las monedas proponen.
+Nunca antes la humanidad había visto una lucha de poder económico semejante entre el status quo de los "dueños" del dinero mundial (bancos centrales) y la masa anónima de control descentralizado que las criptomonedas proponen.
 
 Las criptomonedas son el sueño húmedo del libre comercio.
 
