@@ -4,8 +4,7 @@
       <article>
         <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
         <div>{{ partial "metadata.html" . }}</div>
-        <div>{{ .Summary }}</div>
-        <p><a href="{{ .Permalink }}">Read more...</a></p>
+        <div>{{ .Content }}</div>
       </article>
       <hr class="hr-colored">
     {{ end }}
