@@ -5,7 +5,6 @@
 html {
   /* Set parent font size */
   font-size: 18px;
-  -webkit-font-smoothing: antialiased;
 }
 
 @media (min-width: 700px) {
@@ -24,9 +23,9 @@ body {
   padding: 0 2em;
   /* stack from https://fontsarena.com/blog/operating-systems-default-serif-fonts/ */
   font-family: "Georgia", "Times New Roman", Times, serif;
-  line-height: 1.65;
+  line-height: 1.55;
   color: #000;
-  background: #FFF;
+  background: #EEE;
 }
 
 body {
