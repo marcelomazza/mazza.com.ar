@@ -3,7 +3,7 @@ title: "Manifiesto Comunista: ¿Quién habla?"
 date: "2021-10-31 14:53:00"
 ---
 
-Hola, me presento, soy Marcelo Mazza. Soy un escritor amateur, entre otras cosas. Podés leer más sobre mí en "¿Quién soy?".
+Hola, me presento, soy Marcelo Mazza. Soy un escritor amateur, entre otras cosas. Podés leer más sobre mí en [¿Quién soy?](/quien-soy).
 
 Ya que este es "un libro" político, y como La Política para algunos es pasión, me parece atinado aclarar un poco mi historia política. Y algo había escrito al respecto, alguna vez.
 
@@ -139,12 +139,14 @@ Durante mucho tiempo me consideré "de izquierda". En 2009 voté kirchnerismo y 
 
 Pero hoy considero que me equivoqué, fiero. Me creí "el relato", "el modelo" y todo eso. Espero que me de el tiempo para escribir más al respecto.
 
-Hoy soy liberal y, a la vez, el discurso de Milei no me gusta nada.
+~~Hoy soy liberal~~
+(ya no sé quién soy)
+y, a la vez, el discurso de Milei no me gusta nada.
 
-Milei no es igual a "liberalismo".
+Milei no es igual a "liberalismo", en mi opinión. No lo conozco.
 
-También me gustaría hablar de liberalismo, en algún momento.
+También me gustaría hablar de liberalismo [TO-DO: liberalismo], en algún momento.
 
-Empiezo este proyecto no pudiendo creer como hay aún gente que ha tenido educación y banca al comunismo. Y aún así, no son mis enemigos, bienvenidos todos, de verdad. La unión hace la fuerza y es la única salida.
+Empiezo este proyecto no pudiendo creer como hay aún gente que ha tenido educación y banca al comunismo (o sus fallidas aplicaciones, por lo menos). Y aún así, no son mis enemigos, bienvenidos todos, de verdad. La unión hace la fuerza y es la única salida.
 
 Sueño con un mundo sin grietas.

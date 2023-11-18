@@ -27,7 +27,7 @@ En este caso, la Londres de 1848.
 
 > Karl Heinrich Marx (Tréveris, 5 de mayo de 1818 - Londres, 14 de marzo de 1883), fue un <mark>economista, filósofo, sociólogo, periodista, intelectual y político</mark> comunista alemán de origen judío.
 
-Karl nació en una familia de clase media acomodada, estudió Derecho en la Universidad de Bonn y en la Universidad Humboldt de Berlín, donde se interesó en las ideas filosóficas de los jóvenes hegelianos.
+Karl nació en una familia de clase media acomodada, estudió Derecho en la Universidad de Bonn y en la Universidad Humboldt de Berlín, donde se interesó en las ideas filosóficas de los jóvenes hegelianos [TO-DO: CHEQUEAR HEGEL].
 
 Luego de la Universidad trabajó como periodista en diversos diarios.
 
@@ -39,7 +39,7 @@ Un dato curioso, si no paradójico:
 
 > Friedrich Engels fue un <mark>filósofo, politólogo, sociólogo, historiador, periodista</mark>, revolucionario y teórico comunista y socialista alemán, amigo y colaborador de Karl Marx.
 
-> Engels era hijo del propietario de una importante fábrica textil en Mánchester, corazón de la Revolución Industrial. Durante su estancia, escribió su primer libro La situación de la clase obrera en Inglaterra (1845), que influyó a Marx a concebir la dialéctica histórica en términos de conflicto de clases.
+> Engels era hijo del propietario de una importante fábrica textil en Mánchester, corazón de la Revolución Industrial. Durante su estancia, escribió su primer libro La situación de la clase obrera en Inglaterra (1845), que influyó a Marx a concebir la dialéctica histórica [TO-DO: ¿qué es dialéctica histórica?] en términos de conflicto de clases.
 
 ---
 
