@@ -9,7 +9,7 @@ Estuve escribiendo furiosamente cuando arranqué el sitio. Estos días vengo ten
 
 Escribí este tweet recién:
 
-{{< tweet 1454859677964046336 >}}
+{{< tweet user="marcelomazza" id="1454859677964046336" >}}
 
 Y realmente lo creo así.
 
